@@ -1,0 +1,88 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: myYldLm2OU+9ViTLtKHcAiuOPnA=
+Created-By: 1.0 (Android)
+
+Name: AndroidManifest.xml
+SHA1-Digest: vs4+hR+Vjq+bVyZ4o1V5J+I2BnI=
+
+Name: res/drawable/kamtwo.png
+SHA1-Digest: qN3Ma5u2WS2dqSq6YHQIyWU/UOY=
+
+Name: res/drawable/kamone.png
+SHA1-Digest: CD/6rrXHrP7bLY4erPLjY58XSJQ=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: nVLQ/wUjf9D4KSB2I7WqoHR14JY=
+
+Name: res/layout/wmview.xml
+SHA1-Digest: eztVIFiUnQfEt7IOMLUR6nObhT0=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: NBFXy1maYHW4TAiVCw6R9+EBNqI=
+
+Name: res/menu/main.xml
+SHA1-Digest: DyDYMXGT8iFtbA88igXbtvn3nbA=
+
+Name: res/drawable/pktwo.png
+SHA1-Digest: xdPCZUfGGLNvlpCYVrrXMfrhDNo=
+
+Name: res/drawable/kamfour.png
+SHA1-Digest: Hu23GIGoEp3nnMDyoLD0ShvIRqk=
+
+Name: res/drawable/introimg.png
+SHA1-Digest: X1ln0sW0D+bbPXip23HbWps0qW0=
+
+Name: res/drawable/pkfour.png
+SHA1-Digest: Mklz8vRLo9pKDNs5Go2AVhva7S8=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: W7nSszMeL1x0eIt3K2CoCIHU6Qg=
+
+Name: res/anim/chatstart.xml
+SHA1-Digest: 8Erl833SW1jWlPTfyJlGMDdj2/A=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: bulz4J+iDa2vrZaPdbscgkQbugQ=
+
+Name: res/drawable/kamthree.png
+SHA1-Digest: Z07TbJkHRqnZDHD6DFgrrlFqtdg=
+
+Name: res/drawable/roundrect.xml
+SHA1-Digest: eiqN3Lkv5U3E5r7JtHMdXqUyjFI=
+
+Name: res/anim/chatend.xml
+SHA1-Digest: zCcXP1+rIP/T+k721brZxzbNGQE=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: qLB+xSuTsdod1eS2aPJel/A5PvE=
+
+Name: res/drawable/pk_sleep_anim.xml
+SHA1-Digest: gyZ3C3tyzwCdqZWvzQwtzioNN1w=
+
+Name: res/anim/listanim.xml
+SHA1-Digest: PAXia0cfVd91Cbi6f04j0usGKOo=
+
+Name: res/drawable/pkone.png
+SHA1-Digest: VsaeUfmuY83HncNsS9hH6Mqyj0o=
+
+Name: res/drawable/pkthree.png
+SHA1-Digest: l68TG2UWTjyySb0bJfQnxElLcGw=
+
+Name: resources.arsc
+SHA1-Digest: YiTxmZAK9HHjKEe1kXN11IbBnGc=
+
+Name: res/anim/anim_layout_controller.xml
+SHA1-Digest: KgDkzCZd8S1mOwFFetNJMc0BmOU=
+
+Name: classes.dex
+SHA1-Digest: EcfI5M78oB53dNgtR3grqgrU5KI=
+
+Name: res/anim/alpha.xml
+SHA1-Digest: Yk9kEFbSYdECTNgkHuluHFk8SIc=
+
+Name: res/drawable/pk_wake_anim.xml
+SHA1-Digest: pfv+aVlmmdT9tok5ga3KLsdNI6M=
+
+Name: res/layout/intro.xml
+SHA1-Digest: u9zEm5w2lQBRCxyko+td6WWaXCE=
+
