@@ -13,7 +13,7 @@ Code-Convention 이나 DI, 디자인패턴 등이 적용되지 않은 모델로 
 ## Snapshots
 <div align="center">
   <img src="https://user-images.githubusercontent.com/90737528/158355181-908fd22a-6324-46cb-8b4d-0eca53560db5.gif" width="40%"/>
-</div>
+</div><br/>
 
 | #Photo |  |  
 | :-: | :-: |
