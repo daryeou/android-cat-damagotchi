@@ -36,9 +36,9 @@ Code-Convention 이나 DI, 디자인패턴 등이 적용되지 않은 모델로 
 </div>
 
 PM Status Table
-Dev 일정|Ticket Name|Status
----|:----:|---:
-2018. 07 ~ </br>2018. 08|foxwidget|Close
+|Dev 일정|Ticket Name|Status|
+|---|:----:|---:|
+|2018. 07 ~ </br>2018. 08|foxwidget|Close|
 
 
 ## License
